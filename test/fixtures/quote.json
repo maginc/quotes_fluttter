@@ -1,0 +1,30 @@
+{
+  "success": {
+    "total": 1
+  },
+  "contents": {
+    "quotes": [
+      {
+        "quote": "Life is a shipwreck but we must not forget to sing in the lifeboats....",
+        "length": "71",
+        "author": "Voltaire",
+        "tags": [
+          "enjoying-the-moment",
+          "inspire"
+        ],
+        "category": "inspire",
+        "language": "en",
+        "date": "2020-03-20",
+        "permalink": "https://theysaidso.com/quote/768293-voltaire-life-is-a-shipwreck-but-we-must-not-forget-to-sing-in-the-lifeboats",
+        "id": "NXNgpj0nrpe9WITA5rk0AAeF",
+        "background": "https://theysaidso.com/img/qod/qod-inspire.jpg",
+        "title": "Inspiring Quote of the day"
+      }
+    ]
+  },
+  "baseurl": "https://theysaidso.com",
+  "copyright": {
+    "year": 2022,
+    "url": "https://theysaidso.com"
+  }
+}
